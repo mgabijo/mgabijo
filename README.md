@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Portuguese master's student of Engineering Physics - information physics specialization - at the University of Minho, Braga, Portugal.
+I am also a research student at LIP Minho, where I am doing my master's thesis on quantum computing applications to quantum chromodynamics.
+
 <!--
 **mgabijo/mgabijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
