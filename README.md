@@ -1,13 +1,18 @@
 ### Hi there 👋
 
 I am a Portuguese master's student of Engineering Physics - information physics specialization - at the University of Minho, Braga, Portugal.
-//
+
+
+
 I am also a research student at LIP Minho, where I am doing my master's thesis on quantum computing applications to quantum chromodynamics.
-//
+
+
 🔭 I have experience with machine learning, quantum machine learning, quantum computing, quantum algorithms, and quantum information. I am curious about the theoretical foundations of particle physics, solid state physics, and probably anything else that could help to learn how the world is made and works. I think that outreach activities are of enormous importance in society, and so I like to get involved in them.
 
+
 ✨ I love to learn new things, special when related to _physics_, _machine learning_, _quantum computing_, _quantum information_, _data analysis_ and ... _cooking_. ✨
-//
+
+
 👯 I’m always looking for good books, good articles, or simply a good talk.
 
 ### 📫 How to reach me:
