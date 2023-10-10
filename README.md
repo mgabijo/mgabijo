@@ -8,7 +8,8 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgabijo&theme=light&background=467FF9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgabijo&theme=dark&background=0F6E24)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgabijo&theme=dark&background=0F6E24)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mgabijo/mgabijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
