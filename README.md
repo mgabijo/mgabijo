@@ -4,6 +4,7 @@ I am a Portuguese master's student of Engineering Physics - information physics 
 
 I am also a research student at LIP Minho, where I am doing my master's thesis on quantum computing applications to quantum chromodynamics.
 
+I love to learn new things, special when related with _physics_, _machine learning_, _quantum computing_, _quantum information_ and ... _cooking_.
 <!--
 **mgabijo/mgabijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
