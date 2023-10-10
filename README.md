@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a Portuguese master's student of Engineering Physics - information physics specialization - at the University of Minho, Braga, Portugal.//
-
+I am a Portuguese master's student of Engineering Physics - information physics specialization - at the University of Minho, Braga, Portugal.
+//
 I am also a research student at LIP Minho, where I am doing my master's thesis on quantum computing applications to quantum chromodynamics.
 //
 🔭 I have experience with machine learning, quantum machine learning, quantum computing, quantum algorithms, and quantum information. I am curious about the theoretical foundations of particle physics, solid state physics, and probably anything else that could help to learn how the world is made and works. I think that outreach activities are of enormous importance in society, and so I like to get involved in them.
@@ -10,12 +10,21 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
 //
 👯 I’m always looking for good books, good articles, or simply a good talk.
 
+### 📫 How to reach me:
+
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/maria-gabriela-oliveira-0979ba195/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/_mgabijo_)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgabijo&theme=dark&background=0F6E24)](https://git.io/streak-stats)
-\\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgabijo&theme=dark&background=0F6E24)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mgabijo/mgabijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
