@@ -19,7 +19,8 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
 
 <div align="center">
     <a href=""https://www.linkedin.com/in/maria-gabriela-oliveira-0979ba195/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/_mgabijo_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  >
+    <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=x&logoColor=%23000000&color=%23000000&link=https%3A%2F%2Ftwitter.com%2F_mgabijo_">
 </div>
 
 ### :fire: My Stats :
