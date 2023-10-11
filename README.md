@@ -18,10 +18,10 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
 ### 📫 How to reach me:
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/maria-gabriela-oliveira-0979ba195/)">
+  <a href="https://www.linkedin.com/in/maria-gabriela-oliveira-0979ba195">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/_mgabijo_)">
+  <a href="https://twitter.com/_mgabijo_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
