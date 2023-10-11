@@ -25,7 +25,14 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<div align="center">
+    <a href=""https://www.linkedin.com/in/maria-gabriela-oliveira-0979ba195/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://twitter.com/_mgabijo_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  [[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.fr/citations?user=your_id"
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgabijo&theme=dark&background=0F6E24)](https://git.io/streak-stats)
