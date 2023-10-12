@@ -15,6 +15,7 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
 
 👯 I’m always looking for good books, good articles, or simply a good talk.
 
+⚡You can find my full curriculum [here](https://github.com/mgabijo/mgabijo/blob/main/cv_git.pdf).
 ### 📫 How to reach me:
 
 <div align="center">
