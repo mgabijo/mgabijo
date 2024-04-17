@@ -23,11 +23,10 @@ I am also a research student at LIP Minho, where I am doing my master's thesis o
     <a href="https://twitter.com/_mgabijo_"><img src="https://img.shields.io/badge/-000000?logo=x&color=%23000000"></a>
     <a href="https://scholar.google.com/citations?user=JQVh094AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-%20blue?logo=googlescholar&color=white" alt="Google Scholar"></a>
 </div>
-
+<!--
 --### :fire: My Stats :
 --[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgabijo&theme=dark&background=0F6E24)](https://git.io/streak-stats)
 
-<!--
 **mgabijo/mgabijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
